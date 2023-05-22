@@ -1,0 +1,29 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .bg-aqua {
+    background: rgb(200, 250, 250);
+    border: 2px solid black;
+  }
+  
+  .mx-auto {
+    margin: auto;
+  }
+  
+  .m-w-20 {
+    max-width: 30vw;
+  }
+  
+  .flex {
+    display: flex;
+  
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .items-center {
+    align-items: center;
+  }

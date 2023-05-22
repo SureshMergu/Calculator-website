@@ -1,0 +1,46 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background: url('calculator.bg.jpg');
+  margin: 0px;
+  padding: 0px;
+  
+  font-family: 'Josefin Sans', sans-serif;
+  /* font-family: 'Carter One', cursive; */
+}
+
+
+.button {
+
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+
+}
+
+.button:hover {
+  background-color: grey;
+  /* transition: 0.7s; */
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.row input {
+    /* font-family: 'Carter One', cursive; */
+    font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 38px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+footer{
+  text-align: center;
+}
